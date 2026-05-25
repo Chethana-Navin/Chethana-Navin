@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chethana Navin</h1>
+<h1 align="center">Hi 👋 </h1>
+<h1 align="center">I'm Chethana Navin Disanayaka</h1>
 
 <h3 align="center">🎓 Cybersecurity Undergraduate | 💻 SLIIT | 🔐 Future Security Engineer</h3>
 
